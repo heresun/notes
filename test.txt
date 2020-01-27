@@ -12,3 +12,4 @@ this is a test for no 'fast forward'  mode
 this is a test for general merge
 测试bug分支
 1
+2
