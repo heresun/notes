@@ -8,3 +8,4 @@
 第五行用于测试 --  dev分支
 >>>>>>> dev
 this is my git test for master and dev
+this is a test for no 'fast forward'  mode 
