@@ -10,3 +10,4 @@
 this is my git test for master and dev
 this is a test for no 'fast forward'  mode
 this is a test for general merge
+测试bug分支
